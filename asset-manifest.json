@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Aysar-Hijazi-portfolio/static/css/main.671d0c09.css",
+    "main.js": "/Aysar-Hijazi-portfolio/static/js/main.72a3f0f6.js",
+    "static/js/787.e24543a9.chunk.js": "/Aysar-Hijazi-portfolio/static/js/787.e24543a9.chunk.js",
+    "static/media/betareeqak.png": "/Aysar-Hijazi-portfolio/static/media/betareeqak.ed2c589b7b89d068d216.png",
+    "static/media/proj2.jpg": "/Aysar-Hijazi-portfolio/static/media/proj2.496e4d289eaa0f409ab8.jpg",
+    "static/media/karam.jpg": "/Aysar-Hijazi-portfolio/static/media/karam.c2875064d478e404f03c.jpg",
+    "index.html": "/Aysar-Hijazi-portfolio/index.html",
+    "main.671d0c09.css.map": "/Aysar-Hijazi-portfolio/static/css/main.671d0c09.css.map",
+    "main.72a3f0f6.js.map": "/Aysar-Hijazi-portfolio/static/js/main.72a3f0f6.js.map",
+    "787.e24543a9.chunk.js.map": "/Aysar-Hijazi-portfolio/static/js/787.e24543a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.671d0c09.css",
+    "static/js/main.72a3f0f6.js"
+  ]
+}
